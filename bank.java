@@ -8,3 +8,9 @@ void Deposit()
 {
 ::::Deposite Code::::
 }
+
+void withdraw()
+{
+	::: Withdraw code()::::
+}
+
