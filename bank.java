@@ -3,3 +3,8 @@ class bank{
      System.out.println("Hello Java");  
     }  
 }  
+
+void Deposit()
+{
+::::Deposite Code::::
+}
