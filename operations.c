@@ -4,14 +4,15 @@ printf("Arithmetic operations");
 printf("Arithmetic operations");
 }
 ================
-
-add()
-{
-add( a+b);
-}
+class{
+ add()
+ {
+  add( a+b);
+ }
 ========
 
 sub()
-{
-sub(a-b);
+ {
+   sub(a-b);
+  }
 }

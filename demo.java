@@ -12,4 +12,6 @@ public static void main(master code)
 {
 	system.out.print("Hello devops");
 	system.out.print("Hello AWS");
-}	
+}
+
+resolve conflict
